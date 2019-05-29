@@ -34,6 +34,10 @@ module.exports = {
         })
       }
     }
+  },
+  plugins: ['~/plugins/auth0.js'],
+  auth0: {
+    domain: '',
+    clientID: ''
   }
 }
-
