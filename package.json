@@ -15,7 +15,7 @@
   "dependencies": {
     "auth0-lock": "11.16.0",
     "core-js": "^2.6.2",
-    "nuxt": "2.7.1"
+    "nuxt": "2.15.8"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
